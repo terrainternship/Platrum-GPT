@@ -1,0 +1,8 @@
+beautifulsoup4
+langchain
+numpy
+openai
+pandas
+Requests
+scikit_learn
+urllib3

@@ -1,0 +1,577 @@
+{
+    "total_articles": 84,
+    "status_previous": 84,
+    "status_new": 0,
+    "status_deleted": 0,
+    "status_updated": 0,
+    "sections": {
+        "Начало работы": {
+            "articles": {
+                "Описание функциональности и инструкция по установке и эксплуатации": {
+                    "id": "73000523527",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000523527-%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-%D0%BF%D0%BE-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5-%D0%B8-%D1%8D%D0%BA%D1%81%D0%BF%D0%BB%D1%83%D0%B0%D1%82%D0%B0%D1%86%D0%B8%D0%B8",
+                    "updated_time": "Ср, 2 Авг, 2023 на 12:08 PM",
+                    "status": "previous"
+                },
+                "Начало настройки Platrum": {
+                    "id": "73000524292",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524292-%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-platrum",
+                    "updated_time": "Пт, 19 Авг, 2022 на  6:48 PM",
+                    "status": "previous"
+                },
+                "Общие настройки проекта": {
+                    "id": "73000524811",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524811-%D0%9E%D0%B1%D1%89%D0%B8%D0%B5-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0",
+                    "updated_time": "Пн, 5 Дек, 2022 на  8:25 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Структура организации": {
+            "articles": {
+                "Редактирование структуры": {
+                    "id": "73000524812",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524812-%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B",
+                    "updated_time": "Пн, 9 Янв, 2023 на  6:23 PM",
+                    "status": "previous"
+                },
+                "Назначение и удаление сотрудников на постах": {
+                    "id": "73000524814",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524814-%D0%9D%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D1%85",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:31 PM",
+                    "status": "previous"
+                },
+                "Частые вопросы по работе со структурой": {
+                    "id": "73000524815",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524815-%D0%A7%D0%B0%D1%81%D1%82%D1%8B%D0%B5-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BF%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5-%D1%81%D0%BE-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%BE%D0%B9",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:31 PM",
+                    "status": "previous"
+                },
+                "Печать структуры": {
+                    "id": "73000524816",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524816-%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B",
+                    "updated_time": "Пн, 9 Янв, 2023 на  6:25 PM",
+                    "status": "previous"
+                },
+                "Экспорт, импорт и удаление структуры": {
+                    "id": "73000524829",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524829-%D0%AD%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%B8%D0%BC%D0%BF%D0%BE%D1%80%D1%82-%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:32 PM",
+                    "status": "previous"
+                },
+                "Свои поля на структуре": {
+                    "id": "73000524830",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524830-%D0%A1%D0%B2%D0%BE%D0%B8-%D0%BF%D0%BE%D0%BB%D1%8F-%D0%BD%D0%B0-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B5",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:32 PM",
+                    "status": "previous"
+                },
+                "Страница должности": {
+                    "id": "73000597412",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000597412-%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+                    "updated_time": "Чт, 29 Дек, 2022 на 12:00 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Управление сотрудниками": {
+            "articles": {
+                "Список сотрудников": {
+                    "id": "73000523530",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000523530-%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:33 PM",
+                    "status": "previous"
+                },
+                "Начало работы с Сотрудниками в Platrum": {
+                    "id": "73000524832",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524832-%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-%D0%A1%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8-%D0%B2-platrum",
+                    "updated_time": "Вт, 1 Ноя, 2022 на  5:53 PM",
+                    "status": "previous"
+                },
+                "Добавление и удаление сотрудников в системе": {
+                    "id": "73000524833",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524833-%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:59 PM",
+                    "status": "previous"
+                },
+                "Назначение и удаление сотрудников на постах": {
+                    "id": "73000524835",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524835-%D0%9D%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D1%85",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:32 PM",
+                    "status": "previous"
+                },
+                "Настройка прав пользователей": {
+                    "id": "73000524836",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524836-%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BF%D1%80%D0%B0%D0%B2-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:33 PM",
+                    "status": "previous"
+                },
+                "Графики работы сотрудников": {
+                    "id": "73000524841",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000524841-%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:59 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "База знаний": {
+            "articles": {
+                "Создание статей и доступы к ним": {
+                    "id": "73000525532",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525532-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9-%D0%B8-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%8B-%D0%BA-%D0%BD%D0%B8%D0%BC",
+                    "updated_time": "Чт, 15 Сен, 2022 на 11:08 AM",
+                    "status": "previous"
+                },
+                "Создание структуры папок и статей": {
+                    "id": "73000525533",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525533-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%BF%D0%B0%D0%BF%D0%BE%D0%BA-%D0%B8-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9",
+                    "updated_time": "Чт, 19 Янв, 2023 на 12:22 PM",
+                    "status": "previous"
+                },
+                "Настройка доступов к статьям": {
+                    "id": "73000525534",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525534-%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BE%D0%B2-%D0%BA-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BC",
+                    "updated_time": "Пт, 6 Май, 2022 на  4:39 PM",
+                    "status": "previous"
+                },
+                "Работа с контентом статей": {
+                    "id": "73000525535",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525535-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%BE%D0%BC-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9",
+                    "updated_time": "Вт, 28 Фев, 2023 на 11:47 AM",
+                    "status": "previous"
+                },
+                "Отчет по Базе знаний": {
+                    "id": "73000525536",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525536-%D0%9E%D1%82%D1%87%D0%B5%D1%82-%D0%BF%D0%BE-%D0%91%D0%B0%D0%B7%D0%B5-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:35 PM",
+                    "status": "previous"
+                },
+                "Совместная работа над документами": {
+                    "id": "73000525537",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525537-%D0%A1%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0%D0%B4-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:35 PM",
+                    "status": "previous"
+                },
+                "Импорт из Notion": {
+                    "id": "73000562364",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000562364-%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82-%D0%B8%D0%B7-notion",
+                    "updated_time": "Ср, 2 Ноя, 2022 на  1:02 PM",
+                    "status": "previous"
+                },
+                "Шаблоны статей": {
+                    "id": "73000592964",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000592964-%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9",
+                    "updated_time": "Ср, 30 Ноя, 2022 на  1:18 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Академия": {
+            "articles": {
+                "Начало работы с Академией": {
+                    "id": "73000525539",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525539-%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B5%D0%B9",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:45 PM",
+                    "status": "previous"
+                },
+                "Добавление тестов к статьям": {
+                    "id": "73000525540",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525540-%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2-%D0%BA-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BC",
+                    "updated_time": "Чт, 5 Май, 2022 на  5:35 PM",
+                    "status": "previous"
+                },
+                "Создание курса": {
+                    "id": "73000525541",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525541-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D1%83%D1%80%D1%81%D0%B0",
+                    "updated_time": "Вт, 26 Июл, 2022 на  1:57 PM",
+                    "status": "previous"
+                },
+                "Добавление участников и тренеров": {
+                    "id": "73000525542",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525542-%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B8-%D1%82%D1%80%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D0%B2",
+                    "updated_time": "Ср, 4 Май, 2022 на  4:59 PM",
+                    "status": "previous"
+                },
+                "Экзамены": {
+                    "id": "73000525543",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525543-%D0%AD%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%8B",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:46 PM",
+                    "status": "previous"
+                },
+                "Автоматический контроль знаний": {
+                    "id": "73000525544",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525544-%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9",
+                    "updated_time": "Пт, 16 Сен, 2022 на 12:09 PM",
+                    "status": "previous"
+                },
+                "Отчет по Академии": {
+                    "id": "73000544921",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000544921-%D0%9E%D1%82%D1%87%D0%B5%D1%82-%D0%BF%D0%BE-%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8",
+                    "updated_time": "Пн, 24 Окт, 2022 на  7:23 PM",
+                    "status": "previous"
+                },
+                "Настройки Академии": {
+                    "id": "73000525545",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525545-%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8",
+                    "updated_time": "Чт, 5 Май, 2022 на  5:13 PM",
+                    "status": "previous"
+                },
+                "Программы обучения": {
+                    "id": "73000587211",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000587211-%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F",
+                    "updated_time": "Вт, 13 Сен, 2022 на  7:08 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Задачи": {
+            "articles": {
+                "Как устроены задачи в Platrum": {
+                    "id": "73000525547",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525547-%D0%9A%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D1%8B-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-%D0%B2-platrum",
+                    "updated_time": "Пт, 24 Июн, 2022 на  1:47 PM",
+                    "status": "previous"
+                },
+                "Как работать с задачами в Platrum": {
+                    "id": "73000525553",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525553-%D0%9A%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%82%D1%8C-%D1%81-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%D0%BC%D0%B8-%D0%B2-platrum",
+                    "updated_time": "Ср, 3 Авг, 2022 на  8:06 PM",
+                    "status": "previous"
+                },
+                "Главная": {
+                    "id": "73000588110",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000588110-%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F",
+                    "updated_time": "Пт, 14 Окт, 2022 на 10:30 AM",
+                    "status": "previous"
+                },
+                "Доски": {
+                    "id": "73000525554",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525554-%D0%94%D0%BE%D1%81%D0%BA%D0%B8",
+                    "updated_time": "Пт, 14 Окт, 2022 на 12:02 PM",
+                    "status": "previous"
+                },
+                "Планы": {
+                    "id": "73000525555",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525555-%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B",
+                    "updated_time": "Ср, 1 Июн, 2022 на 10:23 AM",
+                    "status": "previous"
+                },
+                "Календарь": {
+                    "id": "73000525556",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525556-%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C",
+                    "updated_time": "Чт, 2 Фев, 2023 на  3:22 PM",
+                    "status": "previous"
+                },
+                "Список задач": {
+                    "id": "73000525557",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525557-%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87",
+                    "updated_time": "Ср, 3 Авг, 2022 на  8:06 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Метрики и дашборды": {
+            "articles": {
+                "С чего начать работу с метриками": {
+                    "id": "73000525753",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525753-%D0%A1-%D1%87%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83-%D1%81-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8",
+                    "updated_time": "Пн, 24 Окт, 2022 на  6:31 PM",
+                    "status": "previous"
+                },
+                "Метрики": {
+                    "id": "73000525754",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525754-%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8",
+                    "updated_time": "Чт, 10 Ноя, 2022 на  2:18 PM",
+                    "status": "previous"
+                },
+                "Рабочий стол пользователя": {
+                    "id": "73000525756",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525756-%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9-%D1%81%D1%82%D0%BE%D0%BB-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F",
+                    "updated_time": "Пн, 24 Окт, 2022 на  6:48 PM",
+                    "status": "previous"
+                },
+                "Графики работы сотрудников": {
+                    "id": "73000525757",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525757-%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2",
+                    "updated_time": "Ср, 2 Мар, 2022 на  8:04 PM",
+                    "status": "previous"
+                },
+                "Дашборды": {
+                    "id": "73000525759",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525759-%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B",
+                    "updated_time": "Ср, 4 Май, 2022 на  5:35 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Финансовое планирование": {
+            "articles": {
+                "О финансовом планировании - с чего начать": {
+                    "id": "73000525767",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525767-%D0%9E-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%BE%D0%BC-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-%D1%81-%D1%87%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D1%8C",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:51 PM",
+                    "status": "previous"
+                },
+                "Настройка типов транзакций": {
+                    "id": "73000525770",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525770-%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D1%82%D0%B8%D0%BF%D0%BE%D0%B2-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B9",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:51 PM",
+                    "status": "previous"
+                },
+                "Работа с заявками": {
+                    "id": "73000525771",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525771-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8",
+                    "updated_time": "Ср, 15 Фев, 2023 на  1:20 PM",
+                    "status": "previous"
+                },
+                "Настройка финпланирования": {
+                    "id": "73000525772",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525772-%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D1%84%D0%B8%D0%BD%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F",
+                    "updated_time": "Ср, 22 Июн, 2022 на  8:07 PM",
+                    "status": "previous"
+                },
+                "Фонды в фин.планировании": {
+                    "id": "73000541214",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000541214-%D0%A4%D0%BE%D0%BD%D0%B4%D1%8B-%D0%B2-%D1%84%D0%B8%D0%BD-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8",
+                    "updated_time": "Пт, 24 Июн, 2022 на  3:12 PM",
+                    "status": "previous"
+                },
+                "Согласование платежей": {
+                    "id": "73000565841",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000565841-%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B5%D0%B9",
+                    "updated_time": "Пн, 18 Июл, 2022 на  7:32 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Финансы": {
+            "articles": {
+                "Начало работы с Финансами": {
+                    "id": "73000525987",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525987-%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B8",
+                    "updated_time": "Пн, 19 Сен, 2022 на  2:26 PM",
+                    "status": "previous"
+                },
+                "Настройка типов транзакций": {
+                    "id": "73000525776",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525776-%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D1%82%D0%B8%D0%BF%D0%BE%D0%B2-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B9",
+                    "updated_time": "Вт, 20 Дек, 2022 на 12:52 PM",
+                    "status": "previous"
+                },
+                "Основные настройки финансов": {
+                    "id": "73000525780",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525780-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2",
+                    "updated_time": "Пт, 19 Авг, 2022 на  6:56 PM",
+                    "status": "previous"
+                },
+                "Как добавить транзакции в Platrum": {
+                    "id": "73000525778",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525778-%D0%9A%D0%B0%D0%BA-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D0%B2-platrum",
+                    "updated_time": "Ср, 21 Дек, 2022 на  1:24 PM",
+                    "status": "previous"
+                },
+                "Работа с транзакциями": {
+                    "id": "73000525779",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525779-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D1%8F%D0%BC%D0%B8",
+                    "updated_time": "Чт, 5 Май, 2022 на  3:36 PM",
+                    "status": "previous"
+                },
+                "ДДС": {
+                    "id": "73000525781",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525781-%D0%94%D0%94%D0%A1",
+                    "updated_time": "Вт, 20 Дек, 2022 на 12:52 PM",
+                    "status": "previous"
+                },
+                "P&L": {
+                    "id": "73000525783",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525783-p-l",
+                    "updated_time": "Вт, 20 Дек, 2022 на 12:52 PM",
+                    "status": "previous"
+                },
+                "Остатки": {
+                    "id": "73000525790",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525790-%D0%9E%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%B8",
+                    "updated_time": "Пн, 14 Ноя, 2022 на 11:48 AM",
+                    "status": "previous"
+                },
+                "План по месяцам": {
+                    "id": "73000525796",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525796-%D0%9F%D0%BB%D0%B0%D0%BD-%D0%BF%D0%BE-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0%D0%BC",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:55 PM",
+                    "status": "previous"
+                },
+                "Контрагенты": {
+                    "id": "73000525798",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525798-%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%8B",
+                    "updated_time": "Ср, 15 Фев, 2023 на  1:17 PM",
+                    "status": "previous"
+                },
+                "Сводный отчет": {
+                    "id": "73000567561",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000567561-%D0%A1%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D0%BE%D1%82%D1%87%D0%B5%D1%82",
+                    "updated_time": "Пн, 14 Ноя, 2022 на 11:47 AM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Контроль качества": {
+            "articles": {
+                "Начало работы с инструментом": {
+                    "id": "73000525799",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525799-%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%BC",
+                    "updated_time": "Пт, 16 Сен, 2022 на 12:00 PM",
+                    "status": "previous"
+                },
+                "Управление чек-листами": {
+                    "id": "73000525802",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525802-%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D0%BC%D0%B8",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:56 PM",
+                    "status": "previous"
+                },
+                "Настройка панели проверки": {
+                    "id": "73000525805",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525805-%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:56 PM",
+                    "status": "previous"
+                },
+                "Отчет Контроля качества": {
+                    "id": "73000525809",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525809-%D0%9E%D1%82%D1%87%D0%B5%D1%82-%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0",
+                    "updated_time": "Ср, 5 Окт, 2022 на  8:08 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Управление паролями": {
+            "articles": {
+                "Как хранить пароли в Platrum": {
+                    "id": "73000525814",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525814-%D0%9A%D0%B0%D0%BA-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B8-%D0%B2-platrum",
+                    "updated_time": "Пн, 19 Сен, 2022 на  3:07 PM",
+                    "status": "previous"
+                },
+                "Подробнее о безопасности в управлении паролями": {
+                    "id": "73000525816",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525816-%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5-%D0%BE-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B2-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F%D0%BC%D0%B8",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:57 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Склад": {
+            "articles": {
+                "О Складе - с чего начать": {
+                    "id": "73000525829",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525829-%D0%9E-%D0%A1%D0%BA%D0%BB%D0%B0%D0%B4%D0%B5-%D1%81-%D1%87%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D1%8C",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:57 PM",
+                    "status": "previous"
+                },
+                "Работа с товарами": {
+                    "id": "73000525831",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525831-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%D0%BC%D0%B8",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:57 PM",
+                    "status": "previous"
+                },
+                "Работа с документами": {
+                    "id": "73000525834",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525834-%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8",
+                    "updated_time": "Пт, 22 Апр, 2022 на 11:04 PM",
+                    "status": "previous"
+                },
+                "Настройки склада": {
+                    "id": "73000525839",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525839-%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0",
+                    "updated_time": "Чт, 29 Дек, 2022 на 11:20 AM",
+                    "status": "previous"
+                },
+                "Амортизация": {
+                    "id": "73000525842",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525842-%D0%90%D0%BC%D0%BE%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
+                    "updated_time": "Ср, 2 Мар, 2022 на  7:58 PM",
+                    "status": "previous"
+                },
+                "Привязка товара к сотруднику": {
+                    "id": "73000525843",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525843-%D0%9F%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0-%D0%BA-%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D1%83",
+                    "updated_time": "Ср, 16 Ноя, 2022 на 11:33 AM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Тарифы и оплата": {
+            "articles": {
+                "Вопросы и проблемы при оплате": {
+                    "id": "73000525845",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525845-%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D0%BF%D1%80%D0%B8-%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B5",
+                    "updated_time": "Пт, 19 Авг, 2022 на  6:47 PM",
+                    "status": "previous"
+                },
+                "Тарифы": {
+                    "id": "73000525849",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525849-%D0%A2%D0%B0%D1%80%D0%B8%D1%84%D1%8B",
+                    "updated_time": "Пн, 14 Ноя, 2022 на 11:53 AM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Бизнес-процессы": {
+            "articles": {
+                "Бизнес-процессы": {
+                    "id": "73000588898",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000588898-%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D1%8B",
+                    "updated_time": "Вт, 18 Окт, 2022 на 11:42 AM",
+                    "status": "previous"
+                },
+                "Конструктор бизнес-процессов": {
+                    "id": "73000593453",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000593453-%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2",
+                    "updated_time": "Ср, 15 Фев, 2023 на  1:22 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Бронирования": {
+            "articles": {
+                "Бронирование": {
+                    "id": "73000544888",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000544888-%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5",
+                    "updated_time": "Пт, 6 Май, 2022 на  5:47 PM",
+                    "status": "previous"
+                }
+            }
+        },
+        "Прочее": {
+            "articles": {
+                "API": {
+                    "id": "73000525853",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525853-api",
+                    "updated_time": "Ср, 4 Май, 2022 на  5:24 PM",
+                    "status": "previous"
+                },
+                "Создание и установка плагина в проект": {
+                    "id": "73000525986",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000525986-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82",
+                    "updated_time": "Ср, 11 Май, 2022 на  4:30 PM",
+                    "status": "previous"
+                },
+                "Настройка брендирования проекта": {
+                    "id": "73000544904",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000544904-%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0",
+                    "updated_time": "Чт, 1 Дек, 2022 на  5:04 PM",
+                    "status": "previous"
+                },
+                "Мессенджер": {
+                    "id": "73000593868",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000593868-%D0%9C%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80",
+                    "updated_time": "Чт, 1 Дек, 2022 на  6:05 PM",
+                    "status": "previous"
+                },
+                "Зарплаты": {
+                    "id": "73000593960",
+                    "url": "https://help.platrum.ru/support/solutions/articles/73000593960-%D0%97%D0%B0%D1%80%D0%BF%D0%BB%D0%B0%D1%82%D1%8B",
+                    "updated_time": "Ср, 21 Дек, 2022 на  1:26 PM",
+                    "status": "previous"
+                }
+            }
+        }
+    }
+}

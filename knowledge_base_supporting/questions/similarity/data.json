@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Какие бонусы будут видны сотрудникам с добавленным доступом?",
+            "chunk_id": 1,
+            "article_id": "73000525756",
+            "similarity": {
+                "questions": 522,
+                "chunks": 32,
+                "articles": 77
+            }
+        },
+        {
+            "question": "Какие бонусы из списка будут видны сотрудникам с текущим доступом?",
+            "chunk_id": 7,
+            "article_id": "73000523530",
+            "similarity": {
+                "questions": 416,
+                "chunks": 37,
+                "articles": 82
+            }
+        },
+        {
+            "question": "Какие бонусы из списка будут видны сотрудникам с текущим доступом?",
+            "chunk_id": 5,
+            "article_id": "73000525533",
+            "similarity": {
+                "questions": 416,
+                "chunks": 37,
+                "articles": 82
+            }
+        },
+        {
+            "question": "Какие бонусы из списка будут видны сотрудникам с текущим доступом?",
+            "chunk_id": 13,
+            "article_id": "73000525535",
+            "similarity": {
+                "questions": 416,
+                "chunks": 37,
+                "articles": 82
+            }
+        },
+        {
+            "question": "Какие бонусы из списка будут видны сотрудникам с текущим доступом?",
+            "chunk_id": 3,
+            "article_id": "73000525536",
+            "similarity": {
+                "questions": 416,
+                "chunks": 37,
+                "articles": 82
+            }
+        },
+        {
+            "question": "Какие бонусы из списка будут видны сотрудникам с текущим доступом?",
+            "chunk_id": 6,
+            "article_id": "73000525539",
+            "similarity": {
+                "questions": 416,
+                "chunks": 37,
+                "articles": 82
+            }
+        },
+        {
+            "question": "Какие бонусы из списка будут видны сотрудникам с текущим доступом?",
+            "chunk_id": 13,
+            "article_id": "73000525547",
+            "similarity": {
+                "questions": 416,
+                "chunks": 37,
+                "articles": 82
+            }
+        },
+        {
+            "question": "Какие бонусы из списка будут видны сотрудникам с текущим доступом?",
+            "chunk_id": 7,
+            "article_id": "73000525555",
+            "similarity": {
+                "questions": 416,
+                "chunks": 37,
+                "articles": 82
+            }
+        },
+        {
+            "question": "Какие бонусы из списка будут видны сотрудникам с текущим доступом?",
+            "chunk_id": 12,
+            "article_id": "73000525754",
+            "similarity": {
+                "questions": 416,
+                "chunks": 37,
+                "articles": 82
+            }
+        },
+        {
+            "question": "Какие бонусы из списка будут видны сотрудникам с текущим доступом?",
+            "chunk_id": 9,
+            "article_id": "73000541214",
+            "similarity": {
+                "questions": 416,
+                "chunks": 37,
+                "articles": 82
+            }
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+You will be provided with a sentence in Russian, and your task is to translate it into English.
