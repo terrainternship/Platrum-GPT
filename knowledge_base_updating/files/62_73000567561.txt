@@ -1,0 +1,56 @@
+
+# Сводный отчет
+
+
+СОДЕРЖАНИЕ
+- Фильтры
+- Доходы и расходы
+- План по месяцам
+- Остатки на счетах за период
+- Структура доходов
+- Структура расхдов
+Сводный отчет представляет собой набор графиков и статистик, на которых вы можете следить за общими доходами и расходами в разрезе самых популярных типов транзакций, а также видеть общую картину по всем финансовым операциям в проекте.
+Если в отчете не выбран фильтр по валюте, то отображается валюта из кассы по умолчанию
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73021086833/original/gRkCt0fhRxxbIJ-C1qPfDhyRSpRx3RTAhA.png?1660924310
+
+### Фильтры
+С помощью фильтров вы можете просмотреть статистику по интересующим вас типам данных:
+- Проект - фильтр по финансовым проектам.
+- Валюта - валюта по ЦБ РФ (Обновляется раз в сутки).
+- Период - транзакции за выбранный период.
+- Кассы - фильтр по кассам. Можно исключить выбранные.
+- Тип транзакций - фильтр по типам транзакций. Можно исключить выбранные.
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73015832096/original/btBRdXAZ5SkvXMOLxyoM6WAxv_HRSd308g.png?1657620963
+
+### Доходы и расходы
+В данном виджете показывается и подсчитывается общая прибыль проекта по заданным фильтрам.
+Прибыль высчитывается как разница между расходами и доходами.
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73015829331/original/wdCuNYNwJSi0B8y8Tu30QJGQvEbZ9zC4WA.png?1657618927
+
+### План по месяцам
+Выстраивается исходя из Плана по месяцам по выбранным в фильтрах проектам.
+Подробнее про данный план можно прочесть
+ (https://platrum-techsupport.freshdesk.com/ru-RU/support/solutions/articles/73000525796-%D0%BF%D0%BB%D0%B0%D0%BD-%D0%BF%D0%BE-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0%D0%BC)
+в
+статье (https://platrum-techsupport.freshdesk.com/ru-RU/support/solutions/articles/73000525796-%D0%BF%D0%BB%D0%B0%D0%BD-%D0%BF%D0%BE-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0%D0%BC)
+.
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73015829894/original/6MYHR_2WNhtcmGOmaBhsu-kfSPNlmYn2rw.png?1657619249
+
+### Остатки на счетах за период
+В данном виджете можно увидеть остатки денежных средств на всех кассах, или по заданным фильтрам.
+Подробнее про Остатки можно прочесть в данной
+статье (https://platrum-techsupport.freshdesk.com/ru-RU/support/solutions/articles/73000525790-%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81)
+.
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73015831349/original/Jcm8V1jXmY2MSKQFlt3lI3bwRU5JoItqng.png?1657620331
+
+### Структура доходов
+Показывает статистику по транзакциям дохода по заданным фильтрам.
+Статистика выстраивается из топ 5 самых крупных типов транзакций. Остальные попадают в "Прочие".
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73015831948/original/K7cPTU6QaFn3py2pkKB25LRMeY45i2Angw.png?1657620809
+
+### Структура расходов
+Показывает статистику по транзакциям расхода по заданным фильтрам.
+Статистика выстраивается из топ 5 самых крупных типов транзакций расхода. Остальные попадают в "Прочие".
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73015832043/original/FDZPPtqpCgDL115DInNL96-pG-EOu8htZw.png?1657620910
+
+### 

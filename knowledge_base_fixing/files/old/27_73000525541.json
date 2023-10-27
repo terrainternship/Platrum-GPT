@@ -1,0 +1,41 @@
+[
+    {
+        "article_id": "73000525541",
+        "chunk_header_raw": {
+            "H1": "Создание курса"
+        },
+        "chunk_header": "Просто и быстро, создание обучающих курсов\n",
+        "chunk_size": 123,
+        "chunk": "О том, как создаются обучающие курсы, вы можете узнать из нашего короткого видео:\nhttps://www.youtube.com/embed/esLVA9YBT04"
+    },
+    {
+        "article_id": "73000525541",
+        "chunk_header_raw": {
+            "H1": "Создание курса",
+            "H3": "Создание курса"
+        },
+        "chunk_header": "Создание курса\n",
+        "chunk_size": 1771,
+        "chunk": "На главной странице академии нужно нажать на кнопку «Создать курс»:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003641953/original/zTDbRL03qSIY5bfGzRE4KxSbdM5LI52RCQ.png?1646058175\nВ открывшемся окне создания курса нужно указать название будущего курса. Также можно загрузить титульную картинку и  придумать описание.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003641959/original/CpSaSbVNxHvqJV6cYQ01Igd_oS6cpbgUhg.png?1646058175\nДобавьте материал, из которого будет состоять этот курс. Список материалов берется из вашей базы знаний. В раскрывшемся окне выберите нужные статьи, нажав на нужную. Если в курс нужно добавить несколько статьей из одной папки, нажмите на + рядом с названием папки. В примере ниже это папка \"Правила\".\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003641964/original/P4xVZ3yImYVaYP6zeSjT_ZkwUey6Yike4Q.png?1646058176\nПри выборе статьи с тестами тесты автоматически добавляются следующим шагом. При желании его, как и любой другой материал, можно удалить, оставив только статью (для этого нужно навести курсор на материал и кликнуть по корзине).\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003641957/original/OMvBkN3fjjT175Ww3eIa0rk6Zw-wQysDoA.png?1646058175\nЕсли у вас отсутствует кнопка \"Добавить материал\", значит в Базе знаний еще нет ни одной статьи. Как добавить статьи и вопросы к ним читайте в наших статьях: о том,\nкак создать статью (https://platrum-techsupport.freshdesk.com/ru-RU/support/solutions/articles/73000525533)\nи\nкак добавить вопросы. (https://platrum-techsupport.freshdesk.com/ru-RU/support/solutions/articles/73000525540)\nСохраните новый курс перед тем, как продолжить."
+    },
+    {
+        "article_id": "73000525541",
+        "chunk_header_raw": {
+            "H1": "Создание курса",
+            "H3": "Добавление участников"
+        },
+        "chunk_header": "Добавление участников\n",
+        "chunk_size": 1181,
+        "chunk": "После того, как вы сохранили курс, можно перейти к добавлению участников.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003641963/original/GK1l4a4vUy-nDcAIYsuSAr0GRFDPo5L-cQ.png?1646058175\nСотрудники добавляются не отдельно, а по своим должностям. Например, вы выбираете в списке должностей \"Менеджеры отдела продаж\" и в списке появятся все сотрудники, занимающие эту должность.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003641967/original/pLqoSB0g92laAcPLdf-OI9aziqVyhoK-kQ.png?1646058177\nЕсли нужно добавить большое количество должностей, можно облегчить себе задачу, добавив в курс общего руководителя для этих должностей и включить переключатель в виде стрелки. В этом случае, в курс будут добавлены все подчиненные данного руководителя.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003641951/original/z6eqjlS34FqAuXWRXkcKSzB9-Bn5E1NEPg.png?1646058173\nВ нашем примере, т.к. курс предназначен для всех сотрудников компании, добавим в него генерального директора со всеми его подчиненными. В результате получим курс со всеми сотрудниками проекта в списке участников."
+    },
+    {
+        "article_id": "73000525541",
+        "chunk_header_raw": {
+            "H1": "Создание курса",
+            "H3": "Настройки курса"
+        },
+        "chunk_header": "Настройки курса\n",
+        "chunk_size": 975,
+        "chunk": "После того, как вы создали курс, его можно сделать обязательным и ограничить срок его прохождения:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003641952/original/nLDdwukzWXqIfiCu9ZoRFj54L5MSJDqxHg.png?1646058175\nСчитаются календарные дни, а не рабочие, выходные пока тоже учитываются для прохождения.\nНа рабочем столе пользователя будет выводиться уведомление о том, что есть незавершенный обязательный курс:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003641954/original/G8AAHbyRzdBcBwEI1VebMTxwVI2qyHr_zA.png?1646058175\nЕсли сотрудник просрочит прохождение обязательного курса, у него заблокируются метрики. У него и его руководителя на рабочем столе уведомление станет красным и текст изменится на то, что есть просроченные обязательные курсы.\nКак только сотрудник отправит обязательный курс на проверку, метрики станут ему доступны.\nЕсли курс будет пройден не верно, метрики опять заблокируются."
+    }
+]

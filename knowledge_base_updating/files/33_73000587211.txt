@@ -1,0 +1,81 @@
+
+# Программы обучения
+
+
+СОДЕРЖАНИЕ
+- Введение
+- Начало работы
+- Создание программы
+--- Название программы
+--- Описание
+--- Обложка программы
+--- Курсы программы
+--- Черновик
+--- Должности участников
+--- Обязательная для прохождения
+--- Не открывать следующий курс, пока не пройден предыдущий
+
+### Введение
+Программы обучения предназначены для систематизации прохождения курсов подчиненными.
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023387999/original/y8ObPTEilN5DdAgXarLOiCKM_pwROo899A.png?1662561281
+Например, вам необходимо, чтобы сотрудники проходили курсы в четкой последовательности - вы сможете настроить прохождение программы таким образом, чтобы сотрудники не смог приступить к следующему курсу, пока не будет пройден предыдущий.
+Или ваши курсы разбиты по разным темам, и вам необходимо рассортировать курсы по темам, например, "Продажи", "Продвижение" и т.д - в этом вам так же помогут программы обучения.
+
+### Начало работы
+В самом начале, все курсы, которые у вас были созданы до этого, будут находиться в "Курсах без программ":
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023388060/original/BLhEArTU1ydWs_MTknd79CZRePeZaUb8og.png?1662561314
+Если у вас еще нет курсов, просмотрите
+статью (https://platrum-techsupport.freshdesk.com/ru-RU/support/solutions/articles/73000525541-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D1%83%D1%80%D1%81%D0%B0)
+для создания первого курса.
+
+### Создание программы
+Создать программу можно через соответствующую кнопку:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023382144/original/W-QMCw8vPvk0_S_B4hpHvbkPVU0TG_i9og.png?1662559281
+В появившемся меню присутствуют поля:
+
+#### Название программы
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023383660/original/h83urYzgvnKjAi5bCpCYpP1UDL8oJibK-A.png?1662559805
+Название будет отображаться в заголовке программы:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023383890/original/Q4Axhv_CiCy8LAGb95mN0fezSU7Sk7Qwrw.png?1662559875
+Данное поле обязательно для заполнения.
+
+#### Описание
+Поле предназначено для краткого описания программы, чтобы проходившие ее понимали суть того, что проходят:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023384488/original/NbU7Tzeh8kAFdTShUTD2iEwFJ2CxvsP9fw.png?1662560094
+Описание будет отображаться текстом под заголовком программы:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023384908/original/BweWQ_HOiod7bH2o0KQ2rAtDrjgjcvUcEw.png?1662560217
+
+#### Обложка программы
+Это демонстрационное изображение программы, которое может охарактеризовать суть курса:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023385267/original/OSi4ilVfzX2mtARWXQ262h0aCj4yekb78g.png?1662560340
+В обложку можно загрузить файлы следующего формата: .jpg, .png, .svg:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023385522/original/UyN1n1pXWt1YhFXrtcKNAcv0ZBdTBOpDVw.png?1662560448
+
+#### Курсы программы
+Через данное поле добавляются курсы в программу:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023388663/original/gAKi-pvkjowpcqUgbh3lUSwa1qYTyTIrdg.png?1662561577
+Также курсы в программу можно добавить, перетащив их в нужную программу в левом меню:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023388973/original/IFWJyAealj99QWug1MRg6f3yJx0ceRQWsQ.png?1662561699
+
+#### Черновик
+Все программы сначала создаются как черновики. Чтобы вывести их из под данного статуса, необходимо снять соответствующую галочку:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023389235/original/M4GMv8-96I7mjMUvVlzm6ZyRK27MtJlnWw.png?1662561802
+Если программа является черновиком, то в общем списке программ она отображается полупрозрачной, а так же имеет соответствующий статус:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023389343/original/IGoFidY9EM__6IUeZ3f5FS949Z4i2LqCxQ.png?1662561848
+Как только в настройках убрать, что статус программы "Черновик", на станет доступна всем добавленным в нее сотрудникам.
+
+#### Должности участников
+В данном поле выбираются должности сотрудников, которым будет доступно прохождение программы:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023389834/original/9UWKFnx13uhV3mmtk-F_ZAOOQHlRdzedJQ.png?1662562037
+
+#### Обязательная для прохождения
+Специальная настройка, которая делает прохождение программы обязательным для выбранных сотрудников:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023390217/original/GzobZHJNU8MjgVA9GssyxOMmuGd-A3ZJ6g.png?1662562171
+Если настройка активная, то у сотрудников, которые просрочили сроки прохождение программы, будут заблокированы метрики. Вы можете настроить, через какое время у сотрудников заблокируются метрики в поле "Срок прохождения" в настройках программы.
+У обязательных программ соответствующий статус. Сотрудники могут отслеживать, сколько им осталось до блокировки с помощью таймера у программы:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023390505/original/XwiZ9XMSk5pYQR8k62GplG1Ge6WhDLYt2g.png?1662562272
+
+#### Не открывать следующий курс, пока не пройден предыдущий
+Настройка, позволяющая выстроить прохождение курсов по порядку. Например, вам необходимо, чтобы сотрудники проходили курсы линейно.
+При активной настройке, при прохождении у сотрудников будут заблокированы все последующие курсы, пока не будут пройдены курсы, которые стоят перед ними:
+https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023391986/original/BTjr8FEy2Y8MpK8teoTzhmA_4f4RdmKPtQ.png?1662562792

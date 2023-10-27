@@ -10,3 +10,7 @@ class ChatInterface(ABC):
     @abstractmethod
     def chat(self, message):
         pass
+
+    @abstractmethod
+    def completion(self, message):
+        pass

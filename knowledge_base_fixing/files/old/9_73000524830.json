@@ -1,0 +1,41 @@
+[
+    {
+        "article_id": "73000524830",
+        "chunk_header_raw": {
+            "H1": "Свои поля на структуре"
+        },
+        "chunk_header": "Свои поля на структуре\n",
+        "chunk_size": 368,
+        "chunk": "По умолчанию на структуре выводится название блока, должности и ЦКП.\nВы можете дополнить блок другой информацией на свое усмотрение. Например, добавить поле со списком обязанностей должности или ссылкой на регламенты.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003441190/original/QXo4tqWKSg6tdi5kN2171I--tS5MtautaQ.png?1645707354"
+    },
+    {
+        "article_id": "73000524830",
+        "chunk_header_raw": {
+            "H1": "Свои поля на структуре",
+            "H2": "Как добавить свое поле"
+        },
+        "chunk_header": "Как добавить свое поле\n",
+        "chunk_size": 546,
+        "chunk": "Откройте режим редактирования структуры и нажмите на кнопку \"Настройки\"\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003441189/original/unD7HlQphhZ1GVNCRb0RfQLZTL5dxI6QRw.png?1645707353\nРаскройте меню \"Дополнительные поля\" и нажмите \"Добавить поле\". Введите название поля и нажмите Enter.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003441191/original/SIwA25ZyRncyXqLT-SdS0nSGFbIPl5Jnuw.png?1645707354\nПоле добавлено. Теперь его можно заполнить у всех блоков на структуре"
+    },
+    {
+        "article_id": "73000524830",
+        "chunk_header_raw": {
+            "H1": "Свои поля на структуре",
+            "H2": "Заполнение дополнительного поля"
+        },
+        "chunk_header": "Заполнение дополнительного поля\n",
+        "chunk_size": 487,
+        "chunk": "Чтобы заполнить поле, у блока нажмите на кнопку в виде шестеренки и выберите \"Редактировать блок\".\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003441193/original/kXi1fKrQHu3Q7ruPnLTlySdBRjGfSThE8g.png?1645707354\nВ открывшемся окне вы увидите новое поле, которое недавно создали. Его можно заполнить\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003441192/original/CeERy8QMlZZdR_Fcvdj7HSyYFF7vy_Dk8A.png?1645707354"
+    },
+    {
+        "article_id": "73000524830",
+        "chunk_header_raw": {
+            "H1": "Свои поля на структуре",
+            "H2": "Как изменить расположение поля"
+        },
+        "chunk_header": "Как изменить расположение поля\n",
+        "chunk_size": 431,
+        "chunk": "Вы можете сделать так, чтобы информация из нового поля отображалась над списком сотрудников либо под ним. Для этого вернитесь в настройки дополнительных полей, как при добавлении нового поля.\nУ того, которое нужно изменить, нажмите на три точки и настройте его на свое усмотрение.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003441188/original/d3bw-YK7qkQnp_quHho5eGEEQlv7Bwdtpg.png?1645707353"
+    }
+]

@@ -4,15 +4,14 @@ from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from knowledge_base_updating.get_articles_url import get_html
-from knowledge_base_updating.get_chunks import split_to_chunks_md_text
+from knowledge_base_updating.get_chunks import split_to_chunks
 from llm_chat_bots import llm_init
 from config import get_config
 
 kb_cache = get_config()['KnowledgeBase']['cache']
 kb_store = get_config()['KnowledgeBase']['knowledge_base_storage']
-kb_articles_sep = get_config()['KnowledgeBase']['knowledge_base_save_translated_articles']
-chunk_size = get_config()['KnowledgeBase']['chunk_size']
-chunk_overlap = get_config()['KnowledgeBase']['chunk_overlap']
+kb_articles_format = get_config()['KnowledgeBase']['knowledge_base_format']
+kb_articles_translate = get_config()['KnowledgeBase']['knowledge_base_translate']
 prompt_system_path = get_config()['KnowledgeBase']['prompt_system']
 llm_name = get_config()['KnowledgeBase']['llm_name']
 api_key = get_config()['KnowledgeBase']['api_key']
@@ -50,32 +49,37 @@ def get_articles_text():
             kb = process_article(article)
             kb.insert(0, "\n" + "# " + article_name + "\n\n")
 
-            if kb_articles_sep:
-                kb_article = {
-                    "id": article_id,
-                    "title": article_name,
-                    "content": {
-                        "chunks": []
-                    }
-                }
-                articles.append(split_and_translate(kb, kb_article))
-
+            if "_split" in kb_articles_format:
+                if "txt" in kb_articles_format:
+                    save_text(kb, kb_store + '/' + str(count + 1) + '_' + str(article_id) + '.txt')
+                else:
+                    save_json(kb, kb_store + '/' + str(count + 1) + '_' + str(article_id) + '.json')
             else:
-                save_text(kb, kb_store + '/knowledge_base.txt')
+                if "txt" in kb_articles_format:
+                    save_text(kb, kb_store + '/knowledge_base.txt')
+                else:
+                    kb_article = {
+                        "id": article_id,
+                        "title": article_name,
+                        "content": {
+                            "chunks": []
+                        }
+                    }
+                    chunks = split_to_chunks(kb)
+                    if kb_articles_translate:
+                        chunks = translate(chunks)
+                    kb_article["content"]["chunks"].append(chunks)
+                    articles.append(kb_article)
 
             count += 1
             percent = round((count / total_articles) * 100)
             print(f"\rСохранение текста статей: выполнено {count} из {total_articles} ({percent}%)", end='')
 
-    if kb_articles_sep and articles:
-        with open(kb_store + '/knowledge_base.json', 'w', encoding='utf-8') as f:
-            json.dump(articles, f, ensure_ascii=False, indent=4)
+    if kb_articles_format == "json_single" and articles:
+        save_json(articles, kb_store + '/knowledge_base.json')
 
 
-def split_and_translate(kb: list[str], kb_article):
-
-    kb = "\n".join(kb)
-    splits = split_to_chunks_md_text(kb, chunk_size, chunk_overlap)
+def translate(splits):
 
     with open(prompt_system_path, 'r') as f:
         system = f.read().strip()
@@ -91,6 +95,7 @@ def split_and_translate(kb: list[str], kb_article):
 
     count = 0
     future_to_m = {}
+    splits_translate = []
     with ThreadPoolExecutor(max_workers=int(tpe_max_workers)) as executor:
         futures = []
 
@@ -113,10 +118,14 @@ def split_and_translate(kb: list[str], kb_article):
             except Exception as e:
                 print(f"An error occurred during future execution: {e}")
                 continue
-            chunk['en'] = result
-            kb_article["content"]["chunks"].append(chunk)
+            splits_translate.append(result)
 
-    return kb_article
+    return splits_translate
+
+
+def save_json(text, file):
+    with open(file, 'w', encoding='utf-8') as f:
+        json.dump(text, f, ensure_ascii=False, indent=4)
 
 
 def save_text(text, file):

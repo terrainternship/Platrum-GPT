@@ -1,0 +1,41 @@
+[
+    {
+        "article_id": "73000544888",
+        "chunk_header_raw": {
+            "H1": "Бронирование"
+        },
+        "chunk_header": "Бронирование\n",
+        "chunk_size": 161,
+        "chunk": "Данная функциональность предназначена для удобного бронирования чего-либо, например, переговорных комнат.\nСодержание\n- Как начать?\n- Как забронировать?\n- Доступы"
+    },
+    {
+        "article_id": "73000544888",
+        "chunk_header_raw": {
+            "H1": "Бронирование",
+            "H3": "Как начать?"
+        },
+        "chunk_header": "Как начать?\n",
+        "chunk_size": 995,
+        "chunk": "Для начала, вам необходимо настроить пространства, которые у вас есть. Находится данный раздел в настройках:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73008946930/original/fPbmeT-a82wX9kMtgxTw7oVzJqbiquztPg.png?1651847599\nНапример, у вас есть 3 переговорные комнаты. Создаем пространство и заполняем все необходимые поля:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73008946993/original/8iucF4dDlib0Xd6nilgMnzPbapZdA9Gxxw.png?1651847626\nПосле добавления переговорных комнат, вы можете добавить их к какой либо категории, создав ее в соответствующем разделе:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73008946995/original/2VmG3MP4zhAWfg3vdce8paHLcXUaLgQ8PA.png?1651847627\nВажно\n: Убедитесь, что вы открыли данный раздел в настройках:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73008946994/original/sdlkstLaixOpTI0Z-Eayphn5NoE8gC6xjA.png?1651847627"
+    },
+    {
+        "article_id": "73000544888",
+        "chunk_header_raw": {
+            "H1": "Бронирование",
+            "H3": "Как забронировать?"
+        },
+        "chunk_header": "Как забронировать?\n",
+        "chunk_size": 1399,
+        "chunk": "Любой сотрудник может зайти в раздел, и забронировать необходимую ему переговорную комнату. Для начала, необходимо нажать на время в нужной комнате:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73008946996/original/x8v9UfdfPL4BjTfk_ezwbEhU5nMBgeoEdw.png?1651847627\nЧтобы увеличить время - потяните за ячейку:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73008946999/original/9qdzn6ioDc9yjjiXWV82OhekBl4aLYPlWg.png?1651847628\nДля удобства, вы можете раскрыть окно комнаты, чтобы бронировать на другой день:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73008947000/original/YquYOeGMA6yxUQ_-w2BCRUl_Oo9qhA2nCg.png?1651847628\nДля удаления брони, нажмите на нее заново:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73008946998/original/bCcWsyH1q2JMYKLsjmncHsStb7FzqznDog.png?1651847628\nВажно\n: исторические данные удалять нельзя. Т.е если время бронирования истекло - запись удалить нельзя.\nЕсли вам не удобно пользоваться календарным представлением, вы можете открыть окно бронирования:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73008946997/original/ZFTR9S1ueAGV7KzbnOCqZatKPN9KBqG70w.png?1651847628\nЗдесь в более удобном формате вы сможете выбрать нужное время и увидеть, какие переговорные комнаты доступны на данное время."
+    },
+    {
+        "article_id": "73000544888",
+        "chunk_header_raw": {
+            "H1": "Бронирование",
+            "H3": "Доступы"
+        },
+        "chunk_header": "Доступы\n",
+        "chunk_size": 277,
+        "chunk": "Данный раздел доступен всем сотрудникам компании. Для того, чтобы настраивать раздел, необходимо иметь соответствующий доступ:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73008946991/original/G4CpnYv2fpfDogABfv4-JyJOsfn7qIHljQ.png?1651847625"
+    }
+]

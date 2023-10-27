@@ -1,0 +1,160 @@
+[
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Настройки проекта",
+            "H4": "Название"
+        },
+        "chunk_header": "Настройки проекта\n",
+        "chunk_size": 722,
+        "chunk": "Данные настройки являются больше техническими - название вашего проекта/хост/API ключ и т.д. Рассмотрим настройки подробнее. Настройка говорит сама за себя - здесь вы можете дать название своему проекту (При создании проекта ему присваивается случайное название, например: bbd75a0).\nТак вы сможете отличать проекты между собой (Если у вас их несколько), а так же в будущем брендировать свой проект (Доступно только на тарифе \"Профи\"). Рекомендуем назвать проект так же, как называется ваша компания, например: Platrum.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437602/original/3gy-sgoCVGQd6Vw9tRxdPkosF0GAeg8xlw.png?1645703551\nНазвание проекта сменится:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437589/original/xNcMC4afGthkCbdh30BvGINwBaTRZI7nmQ.png?1645703544"
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Настройки проекта",
+            "H4": "Хост"
+        },
+        "chunk_header": "Настройки проекта - Хост\n",
+        "chunk_size": 617,
+        "chunk": "Хост проекта обязателен. Грубо говоря, это название вашего проекта в ссылке. Хост, который вы укажите, подставляется в ссылку вашего проекта. Так, пользователям будет проще понимать, что это ссылка принадлежит именно вашему проекту. Рекомендуем указать как хост название вашей компании латинскими буквами в нижнем регистре, например: softstroi. Так, ссылка на ваш проект будет выглядеть следующим образом:\nhttps://softstroi.platrum.ru (https://softstroi.platrum.ru/)\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437588/original/_L9dYJIb8Gz3_MXSWOdvXBYnlQGjmc3VAQ.png?1645703541"
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Настройки проекта",
+            "H4": "Передача другому владельцу"
+        },
+        "chunk_header": "Передача другому владельцу\n",
+        "chunk_size": 965,
+        "chunk": "Вы можете передать проект другому владельцу. Для этого вам нужно, чтобы будущий владелец проекта был добавлен в него и тарифицировался.\nЧтобы передать проект, зайдите в \"Настройки\", и выберите раздел \"Проект\". В поле \"Email пользователя\" введите почтовый адрес будущего владельца и подтвердите передачу проекта галочкой.\nПосле этого нажмите на \"Передать права\":\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73033760630/original/P6Rq1i_j7v0S8wF6jNmwFhpIJOOEt8YUdw.png?1669902460\nДалее вам нужно ввести название вашего проекта, вы можете найти его на той же странице выше и нажать на \"Передать проект\". Передача проекта доступна только его владельцу.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73033761015/original/253EUS_U_HYYAmHkrLDdb1Z1p5gWALFJtQ.png?1669902551\nПосле передачи проекта, у вас останется к нему доступ, но уже не будет ряда возможностей, которые есть только у владельца проекта."
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Настройки проекта",
+            "H4": "Ограничение доступа по IP"
+        },
+        "chunk_header": "Ограничение доступа по IP\n",
+        "chunk_size": 555,
+        "chunk": "Данная функциональность доступна только на тарифе: \"Профи\". С ее помощью, вы сможете ограничить IP адреса, с которых пользователи могут заходить в ваш проект. Иногда это нужно крупным компаниям, которые хотят, чтобы их сотрудники работали только из офиса компании.\nIP адреса необходимо указывать в таком формате:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437605/original/IptEjGZi0MnVIX8lrOJNNCyAY2TPPh9yXw.png?1645703551\n81.177.127.34\n81.177.127.34\n81.177.127.34\nКаждый новый IP адрес указывается с новой строки."
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Настройки проекта",
+            "H4": "Удаление проекта"
+        },
+        "chunk_header": "Удаление проекта\n",
+        "chunk_size": 316,
+        "chunk": "Название говорит само за себя - тут вы можете полностью удалить свой проект.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437611/original/h9zhFv7Q66aSGv_rLoC3VAVUZSGXMlp3VA.png?1645703552\nНе удаляйте проект, пока не убедитесь, что перенесли из него все необходимые вам данные."
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Настройки профиля"
+        },
+        "chunk_header": "Настройки профиля\n",
+        "chunk_size": 170,
+        "chunk": "Данные настройки относятся к отдельному сотруднику. Тут он может настроить то, как пользователи будут видеть его в проекте, а так же настроить данные для входа в систему."
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Настройки профиля",
+            "H4": "Профиль"
+        },
+        "chunk_header": "Профиль\n",
+        "chunk_size": 408,
+        "chunk": "Здесь пользователи указывают данные о себе: Аватарку/Имя/Телефон/Slack/Skype/Telegram/Дату рождения/Примечание (Для дополнительной информации). Настроить поля профиля вы можете в отдельном разделе. Этот блок настроек находится в разделе Настройки → Профиль.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73034203616/original/iQmVupZoaNxO44_liEPoW0zGVIHDUquWEw.png?1670260671"
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Настройки профиля",
+            "H4": "Аккаунт"
+        },
+        "chunk_header": "Аккаунт\n",
+        "chunk_size": 366,
+        "chunk": "Здесь указывается Email пользователя, с помощью которого он авторизуется в вашем проекте, а так же язык, который будет ему удобен для использования проекта (Язык проекта меняется только для отдельного пользователя).\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73034203905/original/mb6i19nnjUX7xFraZJeiburZNA5RX6W7YA.png?1670260750"
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Настройки профиля",
+            "H4": "Смена пароля"
+        },
+        "chunk_header": "Смена пароля\n",
+        "chunk_size": 241,
+        "chunk": "Тут пользователь при необходимости может сменить пароль от своей учетной записи в проекте.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73034204012/original/vYerz4is6NdR1So0ifeE8l-kiFdN1Iil6w.png?1670260791"
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Поля профиля"
+        },
+        "chunk_header": "Поля профиля\n",
+        "chunk_size": 1551,
+        "chunk": "Данная функциональность позволяет настраивать поля профилей сотрудников. Например, вам необходимо, чтобы сотрудники указывали в своих профилях город проживания. Создать и настроить данное поле вы можете именно здесь:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73034204114/original/g0T77ZbVDpfiBRkcDhTo4e_8M9lBYMWV6w.png?1670260834\nДля добавления поля необходимо нажать на соответствующую кнопку в правом верхнем углу:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437615/original/9l5l2PAu2JaXbF-ig5_HMflz450qg8uYsQ.png?1645703553\nЗдесь вы можете настроить:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437596/original/_xlMmZTVauOPRJbHGUmvZDiR4-136lDyuQ.png?1645703551\nДанные поля отображаются в карточке сотрудника в списке сотрудников:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437610/original/_Eu0nLUPQ6HJfGaaAOEk5Cf9a8FzjDFWDQ.jpeg?1645703552\nА так же во внутренних настройках профиля:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437609/original/sCXgz-6Vb-T5pnkgU-k-xnyAuL-7jRPoHg.png?1645703552\nВы можете сделать поле скрытым. Это означает, что оно будет скрыто от пользователей, у которых нет соответствующего доступа на их просмотр, и доступно только им и тому сотруднику, который его заполнял:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437613/original/Zt8A2GISwS3NIYPzHyS8nWcT9jfnUMeZWQ.png?1645703553"
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Доступы"
+        },
+        "chunk_header": "Доступы\n",
+        "chunk_size": 956,
+        "chunk": "Здесь вы сможете удобно настроить все доступы в проекте. Доступы выдаются отдельно каждому сотруднику. Более подробно про настройки прав пользователей можно прочесть\nв этой статье. (https://platrum-techsupport.freshdesk.com/ru-RU/support/solutions/articles/73000524836)\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437612/original/D6tVKjmjQyBKgizLk_uwL_bPA1vLuSgqgA.png?1645703552\nЧтобы найти раздел, зайдите в настройки проекта и перейдите в раздел \"Доступы\":\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73034204826/original/mg5ejjelyb34ppL4dqztN8gyRTYA7MLp6g.png?1670261075\nПри открытии пользователя, открываются настройки его доступов:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437614/original/Vzk9cmGpNwl_jaVmTv5nZSSz4rt2UWQRjA.png?1645703553\nПредоставляйте доступы сотруд\nникам с осторожностью, т.к это может повлиять на ваш проект."
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Доступные разделы"
+        },
+        "chunk_header": "Доступные разделы\n",
+        "chunk_size": 421,
+        "chunk": "Здесь вы можете настроить разделы, которые вам необходимо скрыть от всех пользователей в левом меню:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437594/original/C0JVbIwH9HVyFptACnSBeEEG7g08PgK9mg.png?1645703550\nНапример: вы в своем проекте не используете Склад. Не беда, вы его отключаете, и пользователи перестают его видеть (При этом вы как владелец можете его включить заново)"
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "Переводы и термины"
+        },
+        "chunk_header": "Переводы и термины\n",
+        "chunk_size": 593,
+        "chunk": "Данный раздел предназначен для настройки переводов в вашем проекте под свои нужды. Например - в вашей компании привыкли говорить на английском языке и вас не устраивает переведенный нами термин. Вы можете сами поставить термин, который вам необходим, чтобы у сотрудников не было путаницы:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437625/original/OHzwZa8hsx-ThgVUuZrdlReERWYtKCrU_w.png?1645703566\nВведите необходимые вам языки и найдите фразу через поиск.\nОбратите внимание, что в разделах могут быть одинаковые фразы. Редактируйте термины аккуратно."
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "White label"
+        },
+        "chunk_header": "White label\n",
+        "chunk_size": 790,
+        "chunk": "Данная функциональность доступна только на тарифе \"Профи\". Она позволяет поместить ваш проект на свой домен, который удобен именно вам. Чаще всего для домена используются название компании, например: romashka.ru:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437627/original/6_GwJbU9sjiBSyoq_ABVpU-bM2ZwmYjLqA.png?1645703567\nВ Название компании можно ввести название своей компании, и во всем проекте слово Platrum сменится на название вашей компании.\nТак же вы можете загрузить свою Favicon - чаще всего используется логотип вашей компании. Данная функциональность заменит Favicon в строке браузера:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437619/original/2R0bAk5tUUwSxA33F6Z_TJYwCB_qtHDLSw.png?1645703561"
+    },
+    {
+        "article_id": "73000524811",
+        "chunk_header_raw": {
+            "H1": "Общие настройки проекта",
+            "H3": "История действий"
+        },
+        "chunk_header": "История действий\n",
+        "chunk_size": 888,
+        "chunk": "В данной функциональности собираются все действия, которые пользователи совершают в вашем проекте. С помощью данных логов вы можете уличить сотрудника в несанкционированных действиях с его стороны, при этом у вас будут доказательства, что это было совершенно с его аккаунта, а так же точное время совершения действия:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437631/original/KKYNg-4fpp1tcsC2RPZ7MiVFTndp7QzLWA.jpeg?1645703567\nКакое действие было совершено поможет понять его название в колоне \"Действие\". Например: \"user.profile.save\" - означает, что были сохранены новые данные профиля сотрудника. В колонке \"Данные\" вы можете подробнее узнать о совершенном действии, нажав на значок справа:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73003437630/original/FenROnKcXrK4_DsxYkAt_Ysn4bb1p-Wt5w.jpeg?1645703567"
+    }
+]

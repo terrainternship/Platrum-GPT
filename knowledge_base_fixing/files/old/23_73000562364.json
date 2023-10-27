@@ -1,0 +1,42 @@
+[
+    {
+        "article_id": "73000562364",
+        "chunk_header_raw": {
+            "H1": "Импорт из Notion",
+            "H5": "Содержание"
+        },
+        "chunk_header": "Содержание\n",
+        "chunk_size": 157,
+        "chunk": "- Шаг 1. Создание новой интеграции в Notion\n- Шаг 2. Добавление интеграции в рабочее пространство\n- Шаг 3. Отправка Integration Token нашему отделу поддержки"
+    },
+    {
+        "article_id": "73000562364",
+        "chunk_header_raw": {
+            "H1": "Импорт из Notion",
+            "H3": "Шаг 1. Создание новой интеграции в Notion"
+        },
+        "chunk_header": "Шаг 1. Создание новой интеграции в Notion\n",
+        "chunk_size": 1058,
+        "chunk": "Для начала, вам необходимо создать новую интеграцию в Notion для переноса Базы знаний в Platrum.\nЗайдите на страницу\nMy integration (https://www.notion.so/my-integrations)\nпо прямой ссылке:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73013544898/original/ZXs7RJYpDN5Bdy2SYigJG9OyFQAqCznuQg.png?1655817338\nИли через меню настроек в самом Notion:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73013544894/original/Pto_ddah8kzXLYuoOalBSA8-tmqKExssWg.png?1655817337\nДалее, добавьте новую интеграцию, заполнив все необходимые поля и выбрав рабочее пространство, которое необходимо перенести:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73013544900/original/agwxc-K7Qo9GBygNYx4SjAc9oP4kCpXvgA.png?1655817338\nПосле создания интеграции, вам станет доступен Integration Token, который вам понадобится в Шаге 2:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73013544899/original/3LQhKPDcvavrv3WC6JiYWxp7RIWNC8EewQ.png?1655817338"
+    },
+    {
+        "article_id": "73000562364",
+        "chunk_header_raw": {
+            "H1": "Импорт из Notion",
+            "H3": "Шаг 2. Добавление интеграции в рабочее пространство"
+        },
+        "chunk_header": "Шаг 2. Добавление интеграции в рабочее пространство\n",
+        "chunk_size": 984,
+        "chunk": "Необходимо добавить интеграцию в то рабочее пространство, которое вы хотите экспортировать.\nПерейдите на страницу экспортируемого пространства, нажмите на три точки в правом верхнем углу, затем внизу на \"Add connections\". У вас появится список интеграций. В списке или поиске по нему найдите нужную интеграцию, которую мы создали в первом шаге по имени интеграции, нажмите на нее.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73024448126/original/VNvt56M4BFtTfIxdR9lTmmySxIMzTZ6pWg.png?1663326671\nПодтвердите добавление интеграции.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73024448284/original/TH3VrguRPH8E8GhK7Pa6kZsnpIU6Xv-Dxg.png?1663326722\nТеперь данное пространство может импортироваться в Platrum.\nОбратите внимание, что для каждого рабочего пространства (Workspace) нужно добавлять интеграцию отдельно. Если вы захотите импортировать другое пространство - вам необходимо будет добавить в нее интеграцию."
+    },
+    {
+        "article_id": "73000562364",
+        "chunk_header_raw": {
+            "H1": "Импорт из Notion",
+            "H3": "Шаг 3. Отправка Integration Token нашему отделу поддержки"
+        },
+        "chunk_header": "Шаг 3. Отправка Integration Token нашему отделу поддержки\n",
+        "chunk_size": 661,
+        "chunk": "Теперь вам необходимо отправить скопированный Integration Token нашему отделу поддержки. С ними вы можете связаться через виджет сообщений в проекте Platrum:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73013544896/original/LnHGoedKewp2lc9vEeY7QF10IndkDmw8xQ.png?1655817338\nПосле отправки, вам необходимо подождать небольшое количество времени. Мы передадим запрос нашему техническому отделу. База знаний будет перенесена в течении 1 рабочего дня.\nЕсли в ваших рабочих пространствах добавлены медиафайлы, они будут тоже перенесены. Поддерживаются:\n- Изображения;\n- Закладки в браузере;\n- Видео;\n- Аудио;\n- Код;\n- Файлы;\n- PDF."
+    }
+]

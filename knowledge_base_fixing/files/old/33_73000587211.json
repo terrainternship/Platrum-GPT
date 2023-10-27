@@ -1,0 +1,120 @@
+[
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Введение"
+        },
+        "chunk_header": "Введение\n",
+        "chunk_size": 649,
+        "chunk": "Программы обучения предназначены для систематизации прохождения курсов подчиненными.\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023387999/original/y8ObPTEilN5DdAgXarLOiCKM_pwROo899A.png?1662561281\nНапример, вам необходимо, чтобы сотрудники проходили курсы в четкой последовательности - вы сможете настроить прохождение программы таким образом, чтобы сотрудники не смог приступить к следующему курсу, пока не будет пройден предыдущий.\nИли ваши курсы разбиты по разным темам, и вам необходимо рассортировать курсы по темам, например, \"Продажи\", \"Продвижение\" и т.д - в этом вам так же помогут программы обучения."
+    },
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Начало работы"
+        },
+        "chunk_header": "Начало работы\n",
+        "chunk_size": 499,
+        "chunk": "В самом начале, все курсы, которые у вас были созданы до этого, будут находиться в \"Курсах без программ\":\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023388060/original/BLhEArTU1ydWs_MTknd79CZRePeZaUb8og.png?1662561314\nЕсли у вас еще нет курсов, просмотрите\nстатью (https://platrum-techsupport.freshdesk.com/ru-RU/support/solutions/articles/73000525541-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D1%83%D1%80%D1%81%D0%B0)\nдля создания первого курса."
+    },
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Создание программы"
+        },
+        "chunk_header": "Создание программы\n",
+        "chunk_size": 242,
+        "chunk": "Создать программу можно через соответствующую кнопку:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023382144/original/W-QMCw8vPvk0_S_B4hpHvbkPVU0TG_i9og.png?1662559281\nВ появившемся меню присутствуют поля:"
+    },
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Создание программы",
+            "H4": "Название программы"
+        },
+        "chunk_header": "Название программы\n",
+        "chunk_size": 392,
+        "chunk": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023383660/original/h83urYzgvnKjAi5bCpCYpP1UDL8oJibK-A.png?1662559805\nНазвание будет отображаться в заголовке программы:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023383890/original/Q4Axhv_CiCy8LAGb95mN0fezSU7Sk7Qwrw.png?1662559875\nДанное поле обязательно для заполнения."
+    },
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Создание программы",
+            "H4": "Описание"
+        },
+        "chunk_header": "Описание\n",
+        "chunk_size": 470,
+        "chunk": "Поле предназначено для краткого описания программы, чтобы проходившие ее понимали суть того, что проходят:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023384488/original/NbU7Tzeh8kAFdTShUTD2iEwFJ2CxvsP9fw.png?1662560094\nОписание будет отображаться текстом под заголовком программы:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023384908/original/BweWQ_HOiod7bH2o0KQ2rAtDrjgjcvUcEw.png?1662560217"
+    },
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Создание программы",
+            "H4": "Обложка программы"
+        },
+        "chunk_header": "Обложка программы\n",
+        "chunk_size": 458,
+        "chunk": "Это демонстрационное изображение программы, которое может охарактеризовать суть курса:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023385267/original/OSi4ilVfzX2mtARWXQ262h0aCj4yekb78g.png?1662560340\nВ обложку можно загрузить файлы следующего формата: .jpg, .png, .svg:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023385522/original/UyN1n1pXWt1YhFXrtcKNAcv0ZBdTBOpDVw.png?1662560448"
+    },
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Создание программы",
+            "H4": "Курсы программы"
+        },
+        "chunk_header": "Курсы программы\n",
+        "chunk_size": 436,
+        "chunk": "Через данное поле добавляются курсы в программу:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023388663/original/gAKi-pvkjowpcqUgbh3lUSwa1qYTyTIrdg.png?1662561577\nТакже курсы в программу можно добавить, перетащив их в нужную программу в левом меню:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023388973/original/IFWJyAealj99QWug1MRg6f3yJx0ceRQWsQ.png?1662561699"
+    },
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Создание программы",
+            "H4": "Черновик"
+        },
+        "chunk_header": "Черновик\n",
+        "chunk_size": 686,
+        "chunk": "Все программы сначала создаются как черновики. Чтобы вывести их из под данного статуса, необходимо снять соответствующую галочку:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023389235/original/M4GMv8-96I7mjMUvVlzm6ZyRK27MtJlnWw.png?1662561802\nЕсли программа является черновиком, то в общем списке программ она отображается полупрозрачной, а так же имеет соответствующий статус:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023389343/original/IGoFidY9EM__6IUeZ3f5FS949Z4i2LqCxQ.png?1662561848\nКак только в настройках убрать, что статус программы \"Черновик\", на станет доступна всем добавленным в нее сотрудникам."
+    },
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Создание программы",
+            "H4": "Должности участников"
+        },
+        "chunk_header": "Должности участников\n",
+        "chunk_size": 244,
+        "chunk": "В данном поле выбираются должности сотрудников, которым будет доступно прохождение программы:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023389834/original/9UWKFnx13uhV3mmtk-F_ZAOOQHlRdzedJQ.png?1662562037"
+    },
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Создание программы",
+            "H4": "Обязательная для прохождения"
+        },
+        "chunk_header": "Обязательная для прохождения\n",
+        "chunk_size": 789,
+        "chunk": "Специальная настройка, которая делает прохождение программы обязательным для выбранных сотрудников:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023390217/original/GzobZHJNU8MjgVA9GssyxOMmuGd-A3ZJ6g.png?1662562171\nЕсли настройка активная, то у сотрудников, которые просрочили сроки прохождение программы, будут заблокированы метрики. Вы можете настроить, через какое время у сотрудников заблокируются метрики в поле \"Срок прохождения\" в настройках программы.\nУ обязательных программ соответствующий статус. Сотрудники могут отслеживать, сколько им осталось до блокировки с помощью таймера у программы:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023390505/original/XwiZ9XMSk5pYQR8k62GplG1Ge6WhDLYt2g.png?1662562272"
+    },
+    {
+        "article_id": "73000587211",
+        "chunk_header_raw": {
+            "H1": "Программы обучения",
+            "H3": "Создание программы",
+            "H4": "Не открывать следующий курс, пока не пройден предыдущий"
+        },
+        "chunk_header": "Не открывать следующий курс, пока не пройден предыдущий\n",
+        "chunk_size": 435,
+        "chunk": "Настройка, позволяющая выстроить прохождение курсов по порядку. Например, вам необходимо, чтобы сотрудники проходили курсы линейно.\nПри активной настройке, при прохождении у сотрудников будут заблокированы все последующие курсы, пока не будут пройдены курсы, которые стоят перед ними:\nhttps://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/73023391986/original/BTjr8FEy2Y8MpK8teoTzhmA_4f4RdmKPtQ.png?1662562792"
+    }
+]
